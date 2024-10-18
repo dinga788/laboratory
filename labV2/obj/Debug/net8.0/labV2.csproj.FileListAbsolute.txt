@@ -1,0 +1,14 @@
+C:\Users\DINDO\source\repos\labV2\labV2\bin\Debug\net8.0\labV2.exe
+C:\Users\DINDO\source\repos\labV2\labV2\bin\Debug\net8.0\labV2.deps.json
+C:\Users\DINDO\source\repos\labV2\labV2\bin\Debug\net8.0\labV2.runtimeconfig.json
+C:\Users\DINDO\source\repos\labV2\labV2\bin\Debug\net8.0\labV2.dll
+C:\Users\DINDO\source\repos\labV2\labV2\bin\Debug\net8.0\labV2.pdb
+C:\Users\DINDO\source\repos\labV2\labV2\obj\Debug\net8.0\labV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DINDO\source\repos\labV2\labV2\obj\Debug\net8.0\labV2.AssemblyInfoInputs.cache
+C:\Users\DINDO\source\repos\labV2\labV2\obj\Debug\net8.0\labV2.AssemblyInfo.cs
+C:\Users\DINDO\source\repos\labV2\labV2\obj\Debug\net8.0\labV2.csproj.CoreCompileInputs.cache
+C:\Users\DINDO\source\repos\labV2\labV2\obj\Debug\net8.0\labV2.dll
+C:\Users\DINDO\source\repos\labV2\labV2\obj\Debug\net8.0\refint\labV2.dll
+C:\Users\DINDO\source\repos\labV2\labV2\obj\Debug\net8.0\labV2.pdb
+C:\Users\DINDO\source\repos\labV2\labV2\obj\Debug\net8.0\labV2.genruntimeconfig.cache
+C:\Users\DINDO\source\repos\labV2\labV2\obj\Debug\net8.0\ref\labV2.dll
